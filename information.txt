@@ -1,0 +1,50 @@
+grass
+	color: #336600
+	4x HSV noise (2 - 3 - 10 - 10)
+
+dirt
+	color: #503a26
+	5x HSV noise (2 - 3 - 10 - 10)
+
+cobble
+	color: #666666
+	lines: #999999
+	#1:    #4d4d4d / V-10
+	#2:    #595959 / V-5
+	#3:    #737373 / V+5
+	#4:    #808080 / V+10
+
+mossycobble
+	inherits cobble
+	lines
+		color: #336600
+		1x HSV noise (2 - 3 - 10 - 10)
+
+stone
+	#1: #666666
+	#2: #5e5e5e
+	#3: #575757
+	#4: #4f4f4f
+
+desert cobble
+	color: #884433
+	lines: #bb7766
+	#1:    #6e3729 / V-10
+	#2:    #7a3d2e / V-5
+	#3:    #944a37 / V+5
+	#4:    #a1503c / V+10
+
+desert
+	#1: #884433
+	#2: #804030
+	#3: #783c2d
+	#4: #70382a
+	
+desert sand:
+	color: #c49f6c
+
+sand
+	color: #fffaa5
+
+sandstone
+	color: #fffaa5
