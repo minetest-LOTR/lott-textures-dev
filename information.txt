@@ -57,13 +57,13 @@ diamond
 	color: #00efff
 
 gold
-	color: #ffee00
+	color: #ffdd00
 
 coal
 	color: #000000
 
 iron
-	color: #bf5919
+	color: #aa5546
 
 copper
-	color: #b87333
+	color: #d57a4b
