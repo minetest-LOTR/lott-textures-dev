@@ -54,16 +54,19 @@ sandstone brick
 	lines: #ffffff
 
 diamond
-	color: #00efff
+	color: #53ffff
 
 gold
-	color: #ffdd00
+	color: #edbe10
 
 coal
-	color: #000000
+	color: #242424
 
 iron
-	color: #aa5546
+	color: #924924
 
 copper
-	color: #d57a4b
+	color: #a57946
+
+mese
+	color: #ffff00
