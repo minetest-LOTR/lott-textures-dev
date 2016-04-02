@@ -44,7 +44,11 @@ desert sand:
 	color: #bf9966
 
 sand
-	color: #fffaa5
+	color: #ffeaa1
 
 sandstone
-	color: #fffaa5
+	color: #ffeaa1
+
+sandstone brick
+	color: #ffeaa1
+	lines: #ffffff
