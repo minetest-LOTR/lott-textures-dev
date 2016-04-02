@@ -1,15 +1,3 @@
-default_cobble.png
-	CC0
-	made by Thomas-S
-
-default_desert_cobble.png
-	CC0
-	made by Thomas-S
-
-default_mossycobble.png
-	CC0
-	made by Thomas-S
-
 default_desert_sand.png
 	CC0
 	made by Thomas-S
@@ -20,27 +8,7 @@ default_sand.png
 	made by Thomas-S
 	using parts of work by VanessaE (WTFPL)
 
-default_dirt.png
-	CC0
-	made by Thomas S.
-
-default_dirt_with_grass.png
-	CC0
-	made by Thomas S.
-
-default_grass.png
-	CC0
-	made by Thomas S.
-
-default_stone.png
-	CC0
-	made by Thomas S.
-
-default_desert_stone.png
-	CC0
-	made by Thomas S.
-
-default_sandstone.png
+everything else:
 	CC0
 	made by Thomas S.
 
