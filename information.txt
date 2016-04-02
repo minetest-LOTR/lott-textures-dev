@@ -22,26 +22,26 @@ mossycobble
 
 stone
 	#1: #666666
-	#2: #5e5e5e
-	#3: #575757
-	#4: #4f4f4f
+	#2: #5e5e5e / V-3
+	#3: #575757 / V-6
+	#4: #4f4f4f / V-9
 
 desert cobble
-	color: #884433
-	lines: #bb7766
-	#1:    #6e3729 / V-10
-	#2:    #7a3d2e / V-5
-	#3:    #944a37 / V+5
-	#4:    #a1503c / V+10
+	color: #774433
+	lines: #aa7766
+	#1:    #5e3628 / V-10
+	#2:    #6b3d2e / V-5
+	#3:    #854c39 / V+5
+	#4:    #91533e / V+10
 
-desert
-	#1: #884433
-	#2: #804030
-	#3: #783c2d
-	#4: #70382a
+desert stone
+	#1: #774433
+	#2: #704030 / V-3
+	#3: #693c2d / V-6
+	#4: #61372a / V-9
 	
 desert sand:
-	color: #c49f6c
+	color: #bf9966
 
 sand
 	color: #fffaa5
